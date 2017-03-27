@@ -1,8 +1,8 @@
-# Disclaimer
-I know that the style sucks. There is a lot of design errors and cancerous patterns. Most of the code was intended to be *temporary*.
+**Cathook is a Linux cheat for TF2 designed to be configurable and compete with the best.**
 
-# Discord Server
-[Official Discord Server](https://discord.gg/RywBUSc)
+# Disclaimer
+Please read through this README if you're having any issues. Your question is likely already answered in it.
+I know that the style sucks. There is a lot of design errors and cancerous patterns. Most of the code was intended to be *temporary*.
 
 # You need g++\-6 to compile/use cathook
 
@@ -48,3 +48,6 @@ make -j4
 
 ### Running followbot server
 `./bin/cathook-ipc-server` or `./bin/cathook-ipc-server &>/dev/null &` to run it in background
+
+# Still have questions? Want to chat with other cathook users?
+Visit the [Official Discord Server](https://discord.gg/RywBUSc)!
